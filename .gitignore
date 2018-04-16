@@ -1,0 +1,17 @@
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+service/views/dev
+service/views/prod
+dist/
+npm-debug.log
+yarn-error.log
+test/unit/coverage
+test/e2e/reports
+selenium-debug.log
+logs/
+
+yarn.lock
+package-lock.json
+status.check
